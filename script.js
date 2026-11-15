@@ -13,7 +13,7 @@ const themeSelect = document.getElementById('theme-select');
 
 // List of clean words for game
 const words = [
-  'tinubu',
+  'peter obi',
   'sigh',
   'tense',
   'airplane',
@@ -22,7 +22,7 @@ const words = [
   'juice',
   'warlike',
   'bad',
-  'shettima',
+  'kwankwaso',
   'north',
   'dependent',
   'steer',
@@ -50,7 +50,14 @@ const words = [
   'entertainment',
   'exceptional',
   'experience',
-  'matrix'
+  'matrix',
+  'NDC',
+  'vote',
+  'election',
+  'democracy',
+  'south',
+  'east',
+  'rigging'
 ];
 
 // Init state
