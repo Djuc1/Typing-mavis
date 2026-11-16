@@ -13,7 +13,8 @@ const themeSelect = document.getElementById('theme-select');
 
 // List of clean words for game
 const words = [
-  'peter obi',
+  'peter',
+  'obi',
   'sigh',
   'tense',
   'airplane',
@@ -51,7 +52,6 @@ const words = [
   'exceptional',
   'experience',
   'matrix',
-  'NDC',
   'vote',
   'election',
   'democracy',
